@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Joshua 👋  
+### Class 11 Student | Dubai  
+Learning Computer Science, building projects, and exploring tech.
 
-<!--
-**ImJoshX/ImJoshX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📚 What I'm Learning
+- Python  
+- Web Development (HTML, CSS, JS)  
+- Data Science basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Projects I'm Working On
+- 🔢 Python Calculator  
+- 🌐 Personal Portfolio Website  
+- 📊 Study Tracker (Python + CSV)  
+
+More projects coming as I learn and build!
+
+---
+
+## 🎯 Goals
+- Build 5–7 solid projects  
+- Improve GitHub consistency  
+- Learn data analysis + basic ML  
+- Strengthen my CS + engineering fundamentals  
+- Prepare for university applications (NUS, NTU, MIT)
+
+---
+
+## 📫 Connect With Me
+**GitHub:** @ImJoshX  
+
+Thanks for visiting my profile!
