@@ -20,7 +20,7 @@ More projects coming as I learn and build!
 ---
 
 ## ✅ Completed Projects
-- Python Calculator
+- 🟰 Python Calculator
 
 ---
 
