@@ -25,7 +25,7 @@ More projects coming as I learn and build!
 - Improve GitHub consistency  
 - Learn data analysis + basic ML  
 - Strengthen my CS + engineering fundamentals  
-- Prepare for university applications (NUS, NTU, MIT)
+- Prepare for university applications (NUS, NTU, IITs)
 
 ---
 
