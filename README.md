@@ -12,7 +12,6 @@ Learning Computer Science, building projects, and exploring tech.
 ---
 
 ## 🛠️ Projects I'm Working On
-- 🔢 Python Calculator  
 - 🌐 Personal Portfolio Website  
 - 📊 Study Tracker (Python + CSV)  
 
