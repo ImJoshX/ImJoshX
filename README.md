@@ -19,6 +19,11 @@ More projects coming as I learn and build!
 
 ---
 
+## ✅ Completed Projects
+- Python Calculator
+
+---
+
 ## 🎯 Goals
 - Build 5–7 solid projects  
 - Improve GitHub consistency  
